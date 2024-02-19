@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://i.imgur.com/LS9cpV2.png" alt="Project logo">
 </p>
-<h3 align="center">EasyGoods</h3>
+<h3 align="center">FriendsPi</h3>
 
 <div align="center">
 

@@ -94,7 +94,7 @@ TBD
 
 - [@0205miss](https://github.com/0205miss) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/0205miss/EasyGoods/contributors)
+See also the list of [contributors](https://github.com/KOSASIH/EasyGoods/graphs/contributors) 
 who participated in this project.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
